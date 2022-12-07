@@ -1,6 +1,9 @@
-# ckkim adds
-Exercise.java
+# sbrpgr adds
 mysql.properties
+*.jar
+*.war
+*.class
+
 .metadata/
 bin/
 tmp/
